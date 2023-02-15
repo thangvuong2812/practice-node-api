@@ -1,0 +1,24 @@
+{
+  "name": "prac-node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangvuong2812/practice-node-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thangvuong2812/practice-node-api/issues"
+  },
+  "homepage": "https://github.com/thangvuong2812/practice-node-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "nodemon": "^2.0.20"
+  },
+  "description": ""
+}
